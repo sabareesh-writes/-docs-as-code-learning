@@ -8,3 +8,5 @@ I am **Sabareesh**, a Technical Writer learning Docs-as-Code.
 - Become Documentation Architect
 - Learn Git and Markdown
 - Learn Docs-as-Code
+## Learning Progress
+Day 1 completed
